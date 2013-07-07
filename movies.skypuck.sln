@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movies.skypuck", "movies.skypuck\movies.skypuck.csproj", "{B973DD33-80F7-4C45-890E-16B77517A402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movies.skypuck.Tests", "movies.skypuck.Tests\movies.skypuck.Tests.csproj", "{1E4E3C5C-6ACE-449B-B9EB-42861721C297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B973DD33-80F7-4C45-890E-16B77517A402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B973DD33-80F7-4C45-890E-16B77517A402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B973DD33-80F7-4C45-890E-16B77517A402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B973DD33-80F7-4C45-890E-16B77517A402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E4E3C5C-6ACE-449B-B9EB-42861721C297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4E3C5C-6ACE-449B-B9EB-42861721C297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4E3C5C-6ACE-449B-B9EB-42861721C297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4E3C5C-6ACE-449B-B9EB-42861721C297}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
